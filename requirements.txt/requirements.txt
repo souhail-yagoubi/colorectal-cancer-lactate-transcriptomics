@@ -1,0 +1,9 @@
+pandas          -> DataFrames et lecture des données
+numpy           -> calculs numériques
+matplotlib      -> PCA, volcano, heatmap, graphiques
+scikit-learn    -> PCA
+pydeseq2        -> normalisation + DESeq2 + VST
+gseapy          -> GO / KEGG / Reactome
+scipy           -> calcul scientifique
+jupyter         -> notebooks
+ipykernel       -> kernel Python dans VS Code
